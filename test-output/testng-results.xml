@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-15T20:19:42 IST" name="Default suite" finished-at="2020-09-15T20:20:21 IST" duration-ms="39021">
+    <groups>
+    </groups>
+    <test started-at="2020-09-15T20:19:42 IST" name="Default test" finished-at="2020-09-15T20:20:21 IST" duration-ms="39021">
+      <class name="testScripts.CommunityLogin">
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:testScripts.CommunityLogin@5552768b]" started-at="2020-09-15T20:19:42 IST" name="testSetup" finished-at="2020-09-15T20:19:51 IST" duration-ms="8996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method signature="signUp(java.lang.String)[pri:0, instance:testScripts.CommunityLogin@5552768b]" started-at="2020-09-15T20:19:51 IST" name="signUp" data-provider="data-provider" finished-at="2020-09-15T20:20:07 IST" duration-ms="16001" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[www.marathishaadi.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method signature="signUp(java.lang.String)[pri:0, instance:testScripts.CommunityLogin@5552768b]" started-at="2020-09-15T20:20:07 IST" name="signUp" data-provider="data-provider" finished-at="2020-09-15T20:20:21 IST" duration-ms="13937" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[www.gujaratishaadi.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+      </class> <!-- testScripts.CommunityLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

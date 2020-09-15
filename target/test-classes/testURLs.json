@@ -1,0 +1,13 @@
+{
+  	"community_domain" :
+    [
+      	{
+        	"website" : "marathishaadi.com",
+        	"defaultLanguage" : "Marathi"
+      	},
+      	{
+        	"website" : "gujaratishaadi.com",
+        	"defaultLanguage" : "Gujarati"
+      	}
+    ]
+}
